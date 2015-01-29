@@ -1,0 +1,7 @@
+How many 'hello's?
+1. 14
+2. 4
+3. 5
+4. 5
+5. 8
+6. fooXX acts as a function that needs to be defined to return a result
